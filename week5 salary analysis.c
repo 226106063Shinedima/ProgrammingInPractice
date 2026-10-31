@@ -24,9 +24,10 @@ int main()
         
         if (i == 1)
         {
-        }
+        
             highest = salary;
             lowest = salary;
+        }
         if (salary > highest)
         {
             highest = salary;
